@@ -5,4 +5,4 @@ Rencana Pembelajaran Reactjs
  - instalasi npm
  - instalasi bootstrap
  - instalasi reactstrap
-- implementasi
+ - instalasi vscode
