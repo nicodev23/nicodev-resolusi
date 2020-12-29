@@ -1,3 +1,4 @@
 nicodev resolusi
 - mempelajari sampai paham reactjs untuk frontend dev
 - mempelajari sampai paham phyton untuk backend dev
+- mempelajari database selain phpmysql
