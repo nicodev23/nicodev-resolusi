@@ -1,0 +1,3 @@
+nicodev resolusi
+- mempelajari sampai paham reactjs untuk frontend dev
+- mempelajari sampai paham phyton untuk backend dev
