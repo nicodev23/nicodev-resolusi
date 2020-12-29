@@ -1,4 +1,6 @@
 Rencana Pembelajaran Reactjs
 
-- instalasi 
+- instalasi :
+ - instalasi node.js
+ - instalasi npm
 - implementasi
