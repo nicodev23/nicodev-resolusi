@@ -3,4 +3,6 @@ Rencana Pembelajaran Reactjs
 - instalasi :
  - instalasi node.js
  - instalasi npm
+ - instalasi bootstrap
+ - instalasi reactstrap
 - implementasi
